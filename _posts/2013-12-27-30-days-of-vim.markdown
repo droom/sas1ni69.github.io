@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "30 Days of Vim"
+date:   2013-12-27 21:26:52
+categories: Personal
+author: Hassanin Ahmed 
+---
+
+Learning Vim has been on my mind for the longest time. I've started on numerous occasions but never lasted more than a day. This has to change.
+
+I am currently using <a href="http://www.sublimetext.com">Sublime Text 3</a> which is fantastic, take nothing away from it.
+
+Why do I want to use Vim? It's as powerful as an editor can get. One thing I like about both Vim and Sublime is the no nonsense factor. Just powerful text editors in their own respect.
+
+This time around, it's a little different. I'm comfortable enough to start and I am willing to take the learning curve on. My previous excuses included "I'm in a rush with xxx project."
+
+30 days. That's what I'm giving myself to see once and for all, is it really as productive as it's reputation precedes or is it just a cult of elitist.
+
+I'll try my best not to enter subl . into my terminal. I'll also add some posts on things and workflows I find interesting in Vim, mostly for my future reference.
