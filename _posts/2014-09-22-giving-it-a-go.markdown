@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Giving it a Go"
+date:   2014-09-22 21:26:52
+categories: Web Development
+author: Hassanin Ahmed 
+---
+
 I'm lactose intollerant, so I keep my cheese to blog post titles.
 
 I've been hovering about the Go lang atmosphere for quiet a bit now but never really gave it a good enough attempt.
