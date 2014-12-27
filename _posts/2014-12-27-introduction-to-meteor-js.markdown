@@ -57,5 +57,5 @@ The helpers method on the template allows us to call it directly inside the temp
 
 Now you should be able to view a list of all the users that were passed in our helper method. Just like that we've added a new helper that allows us to pass data into our template.
 
-Meteor is huge, it's a full stack database. I will write more in depth blog posts about adding Mongo DB collections into our app to persist data next time! Also, how to use coffeescript instead of vailla JS.
+Meteor is huge, it's a full stack framework. I will write more in depth blog posts about adding Mongo DB collections into our app to persist data next time! Also, how to use coffeescript instead of vailla JS.
 
