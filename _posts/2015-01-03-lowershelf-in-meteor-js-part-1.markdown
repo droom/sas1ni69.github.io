@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lowershelf in Meteor JS - Part 1"
-date:   2014-12-28 21:26:52
+date:   2015-01-03 21:26:52
 categories: Web Development
 author: Hassanin Ahmed
 ---
