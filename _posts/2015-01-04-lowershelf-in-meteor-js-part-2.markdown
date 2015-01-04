@@ -82,3 +82,5 @@ In the next post, we will cover routing (where we can view individual books) and
 
 If you have any comments or questions over this post or the one before it, please feel free to contact me through any of mediums on my [contact](http://hassanin-ahmed.com/contact-me/) page. Thanks!
 
+The code so far is on this GitHub [repo](https://github.com/sas1ni69/lowershelf-meteor). You and also browse the app on the demo [meteor server](http://lowershelf.meteor.com/).
+
